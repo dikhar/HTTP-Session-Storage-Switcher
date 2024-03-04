@@ -1,0 +1,15 @@
+org/springframework/session/ISpringSessionOperation.class
+org/framework/data/SpringSessionData$SpringSessionDataBuilder.class
+org/springframework/session/jdbc/SpringJdbcSessionConverterUtil.class
+org/springframework/session/data/mongo/SpringMongoAsSecondarySession.class
+org/springframework/session/data/redis/SpringRedisSessionConfig.class
+org/framework/data/SpringDataStore.class
+org/springframework/session/MultiSessionRepository.class
+org/springframework/session/data/redis/SpringRedisSessionConverterUtil.class
+org/springframework/session/data/mongo/SpringMongoSessionConfig.class
+org/springframework/session/data/redis/SpringRedisAsSecondarySession.class
+org/springframework/session/jdbc/SpringRdbmsSessionConfig.class
+org/springframework/session/jdbc/SpringJdbcAsSecondarySession.class
+org/framework/data/SpringSessionData.class
+org/framework/config/SpringSessionConfigurator.class
+org/springframework/session/data/mongo/SpringMongoSessionConverterUtil.class
